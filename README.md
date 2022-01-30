@@ -1,2 +1,3 @@
-# Hi I am Keith Basil
+# Hi, my name is Keith.
+I love to program
 
